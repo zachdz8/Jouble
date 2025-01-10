@@ -5,4 +5,8 @@ public class joublr {
     public void ok() {
         System.out.println();
     }
+
+    public void partner2Method() {
+        System.out.println("Hldsfj");
+    }
 }
